@@ -1,4 +1,4 @@
-# Best-Buy-sales
+# Sales Dashboard
 Project Highlights:
 Sales Performance: Displaying total sales of 1.57M and a profit of 175.3K, with detailed breakdowns by segment, payment mode, region, and ship mode.
 Segment Analysis: Sales segmented by Corporate (33%), Consumer (48%), and Home Office (19%).
